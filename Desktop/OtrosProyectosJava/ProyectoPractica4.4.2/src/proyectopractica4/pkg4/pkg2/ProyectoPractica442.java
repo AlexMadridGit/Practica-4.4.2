@@ -18,5 +18,6 @@ public class ProyectoPractica442 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Introduzca su nombre: ");
+        System.out.println("Introduzca su apellido: ");
     }
 }
